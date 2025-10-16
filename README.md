@@ -1,4 +1,4 @@
-# Intermediate SQL - Sales Analysis
+# Sales Analysis
 
 ## Overview
 
